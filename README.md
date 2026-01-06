@@ -37,14 +37,6 @@ I'm a developer based in **Brazil**, passionate about transforming raw data into
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathangabrielss&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathangabrielss&layout=compact&theme=dracula&hide_border=true&bg_color=282a36"/>
-</div>
-
----
-
 ### 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/nathangbrl" target="_blank">
