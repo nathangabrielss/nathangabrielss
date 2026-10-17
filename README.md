@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/nathangbrl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:nathangabrielss@outlook.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Brazil-009B3A?style=flat-square" alt="Brazil">
-  <img src="https://komarev.com/ghpvc/?username=nathangabrielss&style=flat-square&color=333333&label=Profile+views" alt="Profile views">
 </p>
 
 ---
