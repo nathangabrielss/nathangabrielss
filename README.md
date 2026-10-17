@@ -123,17 +123,7 @@ definitions match the governed dataset.
 ## GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathangabrielss&theme=github_dark" alt="Profile details">
-</p>
-
-<p align="center">
   <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathangabrielss&theme=github_dark" alt="Most used languages">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathangabrielss&theme=github_dark" alt="Stats">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nathangabrielss&hide_border=true&theme=github-dark" alt="Contribution streak">
-</p>
 
 ---
 
